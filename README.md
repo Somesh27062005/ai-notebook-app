@@ -146,7 +146,7 @@ npm run dev
   <a href="https://github.com/Somesh27062005">
     <img src="https://img.shields.io/badge/GitHub-Somesh27062005-black?logo=github" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/pokala-somesh/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
   </a>
 </p>
